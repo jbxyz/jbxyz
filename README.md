@@ -1,5 +1,5 @@
 
-<img align="left" src="https://cdn.discordapp.com/attachments/965651136453414972/970637534923206686/image4_1.jpeg" height= "150" width="250" /> <img align="right" src="https://cdn.discordapp.com/attachments/965651136453414972/970637533958537266/IMG_6209.jpg" height= "150" width="250" />
+<img align="left" src="https://cdn.discordapp.com/attachments/945354698045653063/995645973650997279/ea62048fa260d046bd970bd3008228c0.png" height= "150" width="250" /> <img align="right" src="https://cdn.discordapp.com/attachments/965651136453414972/970637533958537266/IMG_6209.jpg" height= "150" width="250" />
 
 
 
@@ -8,8 +8,8 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ```
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤName = Jb
-ㅤㅤㅤㅤㅤㅤㅤDiscord = Jb#0495
-ㅤㅤㅤㅤㅤInstagram = @justbanterz
+ㅤㅤㅤㅤㅤㅤㅤDiscord = Jb#0010
+ㅤㅤㅤㅤㅤ    TikTok = @iconjb
 ```
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=szg&style=plastic&label=Profile+Views)
 <!---
