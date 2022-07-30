@@ -3,15 +3,17 @@
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[website](https://ayo.so/jb07)・[discord](https://discord.gg/picz)・[insta](https://www.instagram.com/justbanterz/)・[tiktok](https://www.tiktok.com/@iconjb/)・[bot](https://blazebot.org/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbxyz&layout=compact&theme=dark" align="left"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbxyz&layout=compact&theme=dark"/>
+</p>
 <a href="https://github.com/jbxyz"></a>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=jbxyz&theme=midnight-purple&show_icons=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jbxyz&theme=midnight-purple&show_icons=true"/>
 </p>
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbxyz&theme=midnight-purple&show_icons=true)
  -->
 
-ㅤ  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-601A35?style=for-the-badge&logo=css3&logoColor=white)
